@@ -1,0 +1,307 @@
+{
+  "employees": [
+    {
+      "id": "61d728f893d8a1c76f00f59e",
+      "isActive": true,
+      "salary": "$15,128.14",
+      "picture": "https://i.pravatar.cc/300",
+      "age": 28,
+      "name": "Vaughan Baker",
+      "gender": "male",
+      "email": "vaughanbaker@franscene.com",
+      "phone": "+1 (804) 427-3537",
+      "address": "446 Quentin Street, Brantleyville, Marshall Islands, 2996",
+      "about": "Dolore duis mollit ex nostrud incididunt.",
+      "joined": "2015-12-24T11:37:36 -01:00",
+      "supervisors": [],
+      "subordinates": [
+        {
+          "id": "61d728f881273df905a8747f"
+        },
+        {
+          "id": "61d728f81b97e382188c7353"
+        }
+      ]
+    },
+    {
+      "id": "61d728f881273df905a8747f",
+      "isActive": false,
+      "salary": "$12,976.49",
+      "picture": "https://i.pravatar.cc/300",
+      "age": 21,
+      "name": "Swanson Murray",
+      "gender": "male",
+      "email": "swansonmurray@franscene.com",
+      "phone": "+1 (961) 584-3309",
+      "address": "208 Hoyt Street, Utting, Nebraska, 1447",
+      "about": "Nostrud sunt dolore ullamco esse ea irure ut ex mollit ullamco Lorem ullamco ex culpa.",
+      "joined": "2015-05-11T09:23:36 -02:00",
+      "supervisors": [
+        {
+          "id": "61d728f893d8a1c76f00f59e"
+        }
+      ],
+      "subordinates": [
+        {
+          "id": "61d728f89ce41b53baad047d"
+        },
+        {
+          "id": "61d728f8a596fbabb7c592f2"
+        },
+        {
+          "id": "61d728f86b196ba46be0a3cd"
+        },
+        {
+          "id": "61d728f88d7e2c47ecdf7ac8"
+        },
+        {
+          "id": "61d728f8e681bebaeb80ebc0"
+        }
+      ]
+    },
+    {
+      "id": "61d728f81b97e382188c7353",
+      "isActive": false,
+      "salary": "$11,208.34",
+      "picture": "https://i.pravatar.cc/300",
+      "age": 31,
+      "name": "Hardin Joseph",
+      "gender": "male",
+      "email": "hardinjoseph@franscene.com",
+      "phone": "+1 (916) 552-3876",
+      "address": "236 Church Lane, Norwood, Oklahoma, 9876",
+      "about": "Ad do Lorem qui qui eu ipsum aute.",
+      "joined": "2015-01-09T09:39:39 -01:00",
+      "supervisors": [
+        {
+          "id": "61d728f893d8a1c76f00f59e"
+        }
+      ],
+      "subordinates": [
+        {
+          "id": "61d728f89ce41b53baad047d"
+        },
+        {
+          "id": "61d728f8a596fbabb7c592f2"
+        },
+        {
+          "id": "61d728f86b196ba46be0a3cd"
+        },
+        {
+          "id": "61d728f88d7e2c47ecdf7ac8"
+        },
+        {
+          "id": "61d728f8e681bebaeb80ebc0"
+        }
+      ]
+    },
+    {
+      "id": "61d728f89ce41b53baad047d",
+      "isActive": false,
+      "salary": "$1,264.91",
+      "picture": "https://i.pravatar.cc/300",
+      "age": 27,
+      "name": "Debra Hester",
+      "gender": "female",
+      "email": "debrahester@franscene.com",
+      "phone": "+1 (917) 459-2897",
+      "address": "510 Decatur Street, Stockdale, Colorado, 6560",
+      "about": "Sint tempor ut mollit fugiat commodo.",
+      "joined": "2018-03-15T01:26:22 -01:00",
+      "supervisors": [
+        {
+          "id": "61d728f881273df905a8747f"
+        },
+        {
+          "id": "61d728f81b97e382188c7353"
+        }
+      ],
+      "subordinates": []
+    },
+    {
+      "id": "61d728f8a596fbabb7c592f2",
+      "isActive": true,
+      "salary": "$2,526.06",
+      "picture": "https://i.pravatar.cc/300",
+      "age": 33,
+      "name": "Camacho Kelley",
+      "gender": "male",
+      "email": "camachokelley@franscene.com",
+      "phone": "+1 (810) 467-3054",
+      "address": "170 Cobek Court, Montura, New York, 8661",
+      "about": "Reprehenderit do esse eu sit.",
+      "joined": "2019-06-28T08:21:05 -02:00",
+      "supervisors": [
+        {
+          "id": "61d728f881273df905a8747f"
+        },
+        {
+          "id": "61d728f81b97e382188c7353"
+        }
+      ],
+      "subordinates": []
+    },
+    {
+      "id": "61d728f86b196ba46be0a3cd",
+      "isActive": true,
+      "salary": "$3,195.65",
+      "picture": "https://i.pravatar.cc/300",
+      "age": 29,
+      "name": "Rosalyn Richard",
+      "gender": "female",
+      "email": "rosalynrichard@franscene.com",
+      "phone": "+1 (838) 491-2545",
+      "address": "232 Bayview Avenue, Cavalero, Kansas, 1935",
+      "about": "Excepteur excepteur mollit velit ea qui minim labore aliquip Lorem Lorem.",
+      "joined": "2019-04-29T05:23:37 -02:00",
+      "supervisors": [
+        {
+          "id": "61d728f881273df905a8747f"
+        },
+        {
+          "id": "61d728f81b97e382188c7353"
+        }
+      ],
+      "subordinates": []
+    },
+    {
+      "id": "61d728f88d7e2c47ecdf7ac8",
+      "isActive": false,
+      "salary": "$1,116.25",
+      "picture": "https://i.pravatar.cc/300",
+      "age": 40,
+      "name": "Shepherd Cole",
+      "gender": "male",
+      "email": "shepherdcole@franscene.com",
+      "phone": "+1 (800) 501-2407",
+      "address": "198 Locust Street, Dexter, Federated States Of Micronesia, 8617",
+      "about": "Excepteur sit non in ad voluptate enim commodo ullamco esse in laborum minim.",
+      "joined": "2019-05-18T11:09:12 -02:00",
+      "supervisors": [
+        {
+          "id": "61d728f881273df905a8747f"
+        },
+        {
+          "id": "61d728f81b97e382188c7353"
+        }
+      ],
+      "subordinates": []
+    },
+    {
+      "id": "61d728f8e681bebaeb80ebc0",
+      "isActive": false,
+      "salary": "$6,243.94",
+      "picture": "https://i.pravatar.cc/300",
+      "age": 30,
+      "name": "Hudson Parsons",
+      "gender": "male",
+      "email": "hudsonparsons@franscene.com",
+      "phone": "+1 (850) 498-3496",
+      "address": "585 Ridgewood Place, Maxville, New Mexico, 3699",
+      "about": "Duis pariatur duis cupidatat aliquip.",
+      "joined": "2014-11-10T03:44:58 -01:00",
+      "supervisors": [
+        {
+          "id": "61d728f881273df905a8747f"
+        },
+        {
+          "id": "61d728f81b97e382188c7353"
+        }
+      ],
+      "subordinates": [
+        {
+          "id": "61d728f8fb5ad50efa8fd9b3"
+        },
+        {
+          "id": "61d728f87024fb529109ca77"
+        }
+      ]
+    },
+    {
+      "id": "61d728f8fb5ad50efa8fd9b3",
+      "isActive": false,
+      "salary": "$1,111.54",
+      "picture": "https://i.pravatar.cc/300",
+      "age": 24,
+      "name": "Summers Mcgee",
+      "gender": "male",
+      "email": "summersmcgee@franscene.com",
+      "phone": "+1 (885) 496-2598",
+      "address": "925 Seacoast Terrace, Harmon, Florida, 857",
+      "about": "Proident et et eu pariatur aliqua nostrud adipisicing minim incididunt ad.",
+      "joined": "2014-01-10T07:15:11 -01:00",
+      "supervisors": [
+        {
+          "id": "61d728f8e681bebaeb80ebc0"
+        }
+      ],
+      "subordinates": []
+    },
+    {
+      "id": "61d728f87024fb529109ca77",
+      "isActive": true,
+      "salary": "$3,736.80",
+      "picture": "https://i.pravatar.cc/300",
+      "age": 39,
+      "name": "Johnston Barton",
+      "gender": "male",
+      "email": "johnstonbarton@franscene.com",
+      "phone": "+1 (952) 504-2771",
+      "address": "327 Harwood Place, Virgie, North Dakota, 2696",
+      "about": "Reprehenderit duis adipisicing eiusmod est.",
+      "joined": "2019-01-05T12:08:36 -01:00",
+      "supervisors": [
+        {
+          "id": "61d728f8e681bebaeb80ebc0"
+        }
+      ],
+      "subordinates": []
+    }
+  ],
+  "perks": [
+    {
+      "id": "61d728f88fa7f6d66ffd8ff9",
+      "isActive": true,
+      "value": "$2,378.13",
+      "name": "Perk 0",
+      "about": "Minim consectetur aliquip fugiat ea ut.",
+      "created": "2019-02-22T06:00:18 -01:00",
+      "employees": [
+        {
+          "id": "61d728f893d8a1c76f00f59e"
+        },
+        {
+          "id": "61d728f881273df905a8747f"
+        },
+        {
+          "id": "61d728f81b97e382188c7353"
+        }
+      ]
+    },
+    {
+      "id": "61d728f8d6df50919d5de418",
+      "isActive": false,
+      "value": "$2,402.34",
+      "name": "Perk 1",
+      "about": "Dolore id ullamco ad in mollit consectetur labore nulla duis anim aute.",
+      "created": "2015-06-18T04:20:30 -02:00",
+      "employees": [
+        {
+          "id": "61d728f89ce41b53baad047d"
+        },
+        {
+          "id": "61d728f8a596fbabb7c592f2"
+        },
+        {
+          "id": "61d728f86b196ba46be0a3cd"
+        },
+        {
+          "id": "61d728f88d7e2c47ecdf7ac8"
+        },
+        {
+          "id": "61d728f8e681bebaeb80ebc0"
+        }
+      ]
+    }
+  ]
+}
